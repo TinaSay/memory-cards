@@ -2,6 +2,10 @@
 
 Flash card app for learning. Display, add and remove memory cards with questions and answers
 
+## Demo
+
+https://tinasay.github.io/memory-cards/
+
 ## Project Specifications
 
 - Create flip cards using CSS
